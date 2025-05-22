@@ -14,7 +14,6 @@ namespace PayCalcPlus
 {
     public partial class data_karyawan : Form
     {
-        private string connString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
 
         public data_karyawan()
         {
@@ -31,7 +30,7 @@ namespace PayCalcPlus
         {
             comboBoxJabatan.Items.Clear();
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
@@ -60,7 +59,7 @@ namespace PayCalcPlus
 
         private void LoadData()
         {
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
@@ -111,7 +110,7 @@ namespace PayCalcPlus
             string Jabatan = comboBoxJabatan.SelectedItem.ToString();
 
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 conn.Open();
                 string query = @"UPDATE karyawan 
@@ -145,7 +144,8 @@ namespace PayCalcPlus
 
                 if (result == DialogResult.Yes)
                 {
-                    using (MySqlConnection conn = new MySqlConnection(connString))
+                    using (MySqlConnection conn = koneksi.GetConnection())
+
                     {
                         try
                         {

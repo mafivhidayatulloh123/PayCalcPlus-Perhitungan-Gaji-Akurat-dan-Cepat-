@@ -13,7 +13,6 @@ namespace PayCalcPlus
 {
     public partial class data_gaji : Form
     {
-        private string connString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
 
         public data_gaji()
         {
@@ -22,7 +21,7 @@ namespace PayCalcPlus
 
         private void LoadGajiJabatan()
         {
-            using (MySql.Data.MySqlClient.MySqlConnection conn = new MySql.Data.MySqlClient.MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
@@ -159,7 +158,7 @@ namespace PayCalcPlus
             if (result != DialogResult.Yes)
                 return;
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
@@ -203,8 +202,6 @@ namespace PayCalcPlus
                 return;
             }
 
-
-            // Validasi dan konversi GajiPokok
             decimal GajiPokok;
             if (!decimal.TryParse(textBox3.Text.Trim(), out GajiPokok))
             {
@@ -212,7 +209,6 @@ namespace PayCalcPlus
                 return;
             }
 
-            // Validasi dan konversi Tunjangan
             decimal Tunjangan;
             if (!decimal.TryParse(textBox1.Text.Trim(), out Tunjangan))
             {
@@ -220,28 +216,28 @@ namespace PayCalcPlus
                 return;
             }
 
+            string jabatan = dataGridView1.SelectedRows[0].Cells["Jabatan"].Value.ToString();
 
-            // Koneksi ke database
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
                     conn.Open();
                     string query = @"
-                    UPDATE gaji_jabatan 
-                    SET GajiPokok = @GajiPokok, Tunjangan = @Tunjangan 
-                    WHERE Jabatan = @Jabatan";
+                UPDATE gaji_jabatan 
+                SET GajiPokok = @GajiPokok, Tunjangan = @Tunjangan 
+                WHERE Jabatan = @Jabatan";
 
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     cmd.Parameters.AddWithValue("@GajiPokok", GajiPokok);
                     cmd.Parameters.AddWithValue("@Tunjangan", Tunjangan);
+                    cmd.Parameters.AddWithValue("@Jabatan", jabatan); // ← Tambahan penting
 
-                    // Eksekusi update
                     cmd.ExecuteNonQuery();
 
                     MessageBox.Show("Data berhasil diupdate!");
-                    LoadGajiJabatan(); // Reload data setelah update
-                    ClearTextBoxes(); // Clear input fields
+                    LoadGajiJabatan();
+                    ClearTextBoxes();
                 }
                 catch (Exception ex)
                 {

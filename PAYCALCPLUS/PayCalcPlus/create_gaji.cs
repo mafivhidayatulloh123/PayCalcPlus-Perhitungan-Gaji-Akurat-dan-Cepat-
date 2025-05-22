@@ -13,7 +13,7 @@ namespace PayCalcPlus
 {
     public partial class create_gaji : Form
     {
-        private string connString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
+
 
         public create_gaji()
         {
@@ -35,7 +35,7 @@ namespace PayCalcPlus
                 return;
             }
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {

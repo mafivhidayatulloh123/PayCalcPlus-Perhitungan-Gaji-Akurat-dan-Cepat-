@@ -13,16 +13,15 @@ namespace PayCalcPlus
 {
     public partial class dashboard : Form
     {
-        private string connString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
 
         public dashboard()
         {
             InitializeComponent();
         }
-
+      
         private void LoadDashboardData()
         {
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {

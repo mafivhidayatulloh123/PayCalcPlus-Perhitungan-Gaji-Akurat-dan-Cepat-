@@ -13,7 +13,6 @@ namespace PayCalcPlus
 {
     public partial class create : Form
     {
-        private string connString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
 
         public create()
         {
@@ -53,7 +52,7 @@ namespace PayCalcPlus
                 return;
             }
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {
@@ -119,7 +118,7 @@ namespace PayCalcPlus
         {
             comboBoxJabatan.Items.Clear();
 
-            using (MySqlConnection conn = new MySqlConnection(connString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {

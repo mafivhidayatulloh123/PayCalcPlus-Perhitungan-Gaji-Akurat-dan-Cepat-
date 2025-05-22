@@ -25,7 +25,6 @@ namespace PayCalcPlus
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string connectionString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
             string username = textBox3.Text.Trim();
             string email = textBox2.Text.Trim();
             string password = textBox1.Text.Trim();
@@ -36,7 +35,7 @@ namespace PayCalcPlus
                 return;
             }
 
-            using (MySqlConnection conn = new MySqlConnection(connectionString))
+            using (MySqlConnection conn = koneksi.GetConnection())
             {
                 try
                 {

@@ -22,12 +22,11 @@ namespace PayCalcPlus
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string connectionString = "Server=localhost;Database=paycalcplus;Uid=root;Pwd=;";
             string username = textBox2.Text.Trim();
             string email = textBox3.Text.Trim();
             string password = textBox1.Text.Trim();
 
-            using (MySqlConnection conn = new MySqlConnection(connectionString)) // ✅ Pakai MySqlConnection
+            using (MySqlConnection conn = koneksi.GetConnection()) // ✅ Pakai MySqlConnection
             {
                 try
                 {
