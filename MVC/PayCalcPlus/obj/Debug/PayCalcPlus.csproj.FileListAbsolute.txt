@@ -1,0 +1,96 @@
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.exe.config
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.exe
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.pdb
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.dashboard.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.data_gaji.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.data_karyawan.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.Form1.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.login.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.exe
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.pdb
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Memory.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Memory.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\source\repos\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcP.4E2F8300.Up2Date
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.exe.config
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.exe
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\PayCalcPlus.pdb
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\BouncyCastle.Cryptography.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Hash.xxHash.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\MySql.Data.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Buffers.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.IO.Pipelines.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Memory.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Numerics.Vectors.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\ZstdSharp.dll
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\BouncyCastle.Cryptography.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.pdb
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\Google.Protobuf.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\K4os.Hash.xxHash.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\MySql.Data.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Buffers.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.IO.Pipelines.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Memory.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Numerics.Vectors.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.AssemblyReference.cache
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.dashboard.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.data_gaji.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.data_karyawan.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.Form1.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.login.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.Properties.Resources.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.GenerateResource.cache
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.csproj.CoreCompileInputs.cache
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcP.4E2F8300.Up2Date
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.exe
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.pdb
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.create.resources
+E:\visual studio\PayCalcPlus\PayCalcPlus\obj\Debug\PayCalcPlus.create_gaji.resources
